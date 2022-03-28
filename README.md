@@ -11,3 +11,7 @@ In each folder you can find a brief explanation of the challenge and our solutio
 ### Homework_2: Time Series Forecasting
 
 In this homework, you are required to predict future samples of a multivariate time series. The goal is to design and implement forecasting models to learn how to exploit past observations in the input sequence to correctly predict the future. 
+
+## Collaborator
+- [Natalia Bagnoli](https://github.com/NataliaBagnoli)
+- [Davide Canali](https://github.com/CanaliDavide)
